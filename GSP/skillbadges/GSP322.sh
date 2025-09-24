@@ -149,11 +149,3 @@ echo "${YELLOW}${BOLD}📺 Subscribe for more GCP content:${RESET}"
 echo "${BLUE}${UNDERLINE}https://youtube.com/@hyperbytetech-g4o?si=xtOvPz00bsMStAsw${RESET}"
 echo
 echo "${YELLOW}${BOLD}👍 Like the video if you found it helpful!${RESET}"
-
-
-
-
-https://github.com/Itsabhishek7py/GoogleCloudSkillsboost/blob/a2bd9dfad9996976364232388d2ab2c365f80788/Build%20a%20Secure%20Google%20Cloud%20Network%3A%20Challenge%20Lab/abhishek.sh
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Build%20a%20Secure%20Google%20Cloud%20Network%3A%20Challenge%20Lab/abhishek.sh
-sudo chmod +x abhishek.sh
-./abhishek.sh
